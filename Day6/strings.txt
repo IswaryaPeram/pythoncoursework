@@ -1,0 +1,6 @@
+String 
+String is an immutable sequence of characters that can be enclosed in either single (')or double(" ")or triple(''' ''')
+example:
+s='python'
+s="python"
+s='''python'''
